@@ -1,0 +1,14 @@
+E:\Algorithms\Project1\Project1\bin\Debug\Project1.exe.config
+E:\Algorithms\Project1\Project1\bin\Debug\Project1.exe
+E:\Algorithms\Project1\Project1\bin\Debug\Project1.pdb
+E:\Algorithms\Project1\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+E:\Algorithms\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+E:\Algorithms\Project1\Project1\obj\Debug\Project1.exe
+E:\Algorithms\Project1\Project1\obj\Debug\Project1.pdb
+D:\Algorithms\Project1\Project1\bin\Debug\Project1.exe.config
+D:\Algorithms\Project1\Project1\bin\Debug\Project1.exe
+D:\Algorithms\Project1\Project1\bin\Debug\Project1.pdb
+D:\Algorithms\Project1\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+D:\Algorithms\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+D:\Algorithms\Project1\Project1\obj\Debug\Project1.exe
+D:\Algorithms\Project1\Project1\obj\Debug\Project1.pdb
